@@ -1,16 +1,24 @@
-var j5 = require('johnny-five');
+let j5 = require('johnny-five');
 
-var board = new j5.Board();
+let board = new j5.Board();
+
+let Laser;
+let Light;
 
 board.on('ready', function(){
-    var laser = new j5.Led(5);
-    var detection = new j5.Sensor('A0');
-    var lcd = new j5.LCD({controller: "PCF8574", pins: [7,8,9,10,11,12], backlight:15});
-    var isSecure = false;
+    let light = new j5.Led(13);
+    let laser = new j5.Led(5);
+    let detection = new j5.Sensor('A0');
+    let lcd = new j5.LCD({controller: "PCF8574", pins: [7,8,9,10,11,12], backlight:15});
+    let isSecure = false;
     lcd.print("HELLO");
-    laser.off();
+    Laser = laser;
+    Light = light;
+    laser.on();
+    turnOnLaser(laser);
+    light.on();
     detection.scale(0,1).on("change", function(){
-        var reading = !(this.value | 0)
+        let reading = !(this.value | 0)
 
         if (isSecure !== reading){
             isSecure = reading;
@@ -21,3 +29,12 @@ board.on('ready', function(){
         }
     });
 });
+
+const turnOffLaser = (laser) => {
+  Laser.off();
+}
+
+const turnOnLaser = (laser) => {
+  Light.on();
+}
+

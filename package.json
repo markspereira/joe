@@ -5,7 +5,7 @@
   "main": "server.js",
   "scripts": {
     "test": "jest"
-  }
+  },
   "repository": "github.com/markpereira17/joe",
   "author": "Mark Pereira",
   "license": "MIT",
@@ -24,8 +24,25 @@
     "socket.io-client": "^2.0.3"
   },
   "devDependencies": {
-    "babel-plugin-relay": "^1.1.0",
+    "adm-zip": "^0.4.7",
+    "babel-eslint": "^7.2.1",
+    "babel-jest": "19.0.0",
+    "babel-plugin-module-resolver": "^2.7.1",
+    "babel-plugin-relay": "^1.2.0",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-preset-react-native": "1.9.1",
+    "eslint": "^4.4.1",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-import-resolver-babel-module": "^3.0.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^5.1.1",
+    "eslint-plugin-react": "^7.2.0",
+    "jest": "19.0.2",
     "jest-cli": "^20.0.4",
-    "relay-compiler": "^1.1.0"
+    "plist": "^2.1.0",
+    "react-test-renderer": "~15.4.1",
+    "relay-compiler": "^1.1.0",
+    "remote-redux-devtools": "^0.5.12",
+    "xcode": "^0.9.3"
   }
 }
