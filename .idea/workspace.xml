@@ -2,18 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0521c0d4-e7f5-42b5-9e99-79d2450a7bb8" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Combined Shape.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Oval 2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Oval 3.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Oval 5.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Oval 9.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Oval.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Path 2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Path 3.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Path 4.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Path 6.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/Rectangle 2.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/assets/joe_logo.sketch" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="joe.iws" />
@@ -73,8 +61,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <first_editor relative-caret-position="195">
+                <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -279,12 +267,12 @@
       <workItem from="1510902998215" duration="299000" />
       <workItem from="1510903312280" duration="260000" />
       <workItem from="1510903683853" duration="12849000" />
-      <workItem from="1511004495433" duration="677000" />
+      <workItem from="1511004495433" duration="1199000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24671000" />
+    <option name="totallyTimeSpent" value="25193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -552,8 +540,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <first_editor relative-caret-position="195">
+            <caret line="13" column="6" lean-forward="false" selection-start-line="13" selection-start-column="6" selection-end-line="13" selection-end-column="6" />
             <folding />
           </first_editor>
           <second_editor />
