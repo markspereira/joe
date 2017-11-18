@@ -1,15 +1,15 @@
 <p align="center">
-  <a href="https://react-native-community.github.io/react-native-elements/">
-    <img alt="react-native-elements" src="https://raw.githubusercontent.com/react-native-training/react-native-elements/master/docs/images/react_native_elements_logo.png" width="450">
+  <a href="https://github.com/markspereira/joe">
+    <img alt="javascript-on-everything" src="https://github.com/markspereira/joe/tree/master/assets/joe_logo.png" width="450">
   </a>
 </p>
 
 <h3 align="center">
-  React Native Elements
+  JavaScript on Everything
 </h3>
 
 <p align="center">
-  Cross Platform <a href="https://facebook.github.io/react-native/">React Native</a> UI Toolkit
+  Project made possible thanks to <a href="https://facebook.github.io/react-native/">React Native</a> <a href="https://nodejs.org/">NodeJS</a> <a href="https://reactjs.org/">ReactJS</a> & <a href="http://johnny-five.io/">Johnny-Five</a>
 </p>
 
 <p align="center">
@@ -28,10 +28,6 @@
 </p>
 
 <br />
-
-![React Native UI Toolkit](http://i.imgur.com/UXrGTeG.png)
-
-## Get Started
 
 
 # JOE
