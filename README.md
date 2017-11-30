@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/markspereira/joe">
-    <img alt="javascript-on-everything" src="https://raw.githubusercontent.com/markspereira/joe/master/assets/joe_logo.png" width="450">
+    <img alt="javascript-on-everything" src="https://raw.githubusercontent.com/markspereira/joe/master/joe_logo.png" width="450">
   </a>
 </p>
 
