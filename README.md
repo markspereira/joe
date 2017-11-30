@@ -13,7 +13,7 @@
 </h3>
 <hr />
 <p align="center">
-  Project made possible thanks to <a href="https://facebook.github.io/react-native/">React Native</a> <a href="https://nodejs.org/">NodeJS</a> <a href="https://reactjs.org/">ReactJS</a> & <a href="http://johnny-five.io/">Johnny-Five</a>
+  <h4>Coming soon Early 2018!!<h4/>
 </p>
 
 <p align="center">
@@ -22,5 +22,3 @@
 
 <br />
 
-
-[//]: #(Tech Stack : Node, Johnny-Five, React, React Native, Relay, GraphQL, MQTT.js, Jest, Socket.io ... this list will go on.)
